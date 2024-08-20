@@ -4,8 +4,6 @@
 <h1> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
 <div size="20px"> Hi! My name is Evelyn. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
@@ -60,7 +58,3 @@
 
 
 
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;theme=tokyonight" alt="Evelyn's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight" alt="Evelyn GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
-<br>
-<hr>
