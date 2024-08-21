@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working as a full-stack developer</p>
+<p>🔭 I’m currently a Sophomore majoring in Computer Science and Mathematics</p>
 </li>
 <li>
 <p>🌱 I’m a previous Software Engineer Intern at @Alcon @HSBC @VinFast</p>
