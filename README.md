@@ -14,16 +14,19 @@
 <p>🔭 I’m currently a Sophomore majoring in Computer Science and Mathematics</p>
 </li>
 <li>
-<p>🌱 I’m a previous Software Engineer Intern at @Alcon @HSBC @VinFast</p>
+<p>🌱 Previous Software Engineer Intern at @Alcon Vision LLC. (Automation Project) </p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on impactful projects</p>
+<p>👯 Previous Software Engineer Intern at @HSBC </p>
+</li>
+<li>
+<p>🔐 Previous Software Engineer Intern at VinFast</p>
 </li>
 <li>
 <p>💬 Ask me about Sql, Java, C#, JavaScript, and Python</p>
 </li>
 <li>
-<p>⚡ Fun fact: My routine recently is: sleep, code, eat, go to college</p>
+<p>⚡ Fun fact: My routine recently is: sleep, code, eat.</p>
 </li>
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
