@@ -20,7 +20,7 @@
 <p>👯 Previous Software Engineer Intern at @HSBC </p>
 </li>
 <li>
-<p>🔐 Previous Software Engineer Intern at VinFast</p>
+<p>🔐 Previous Software Engineer Intern at @VinFast</p>
 </li>
 <li>
 <p>💬 Ask me about Sql, Java, C#, JavaScript, and Python</p>
