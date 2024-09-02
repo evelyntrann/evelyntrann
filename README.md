@@ -9,7 +9,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently a Sophomore majoring in Computer Science and Mathematics</p>
+<p>🔭 I’m currently an undergrad student majoring in Computer Science and Mathematics</p>
 </li>
 <li>
         <p>🌱 Previous Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> (Automation Project) </p>
