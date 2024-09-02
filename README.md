@@ -1,9 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Evelyn Tran</h1>
-<h3 align="center">A passionate CS students</h3>
-  <p align="center">
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200">
-</p>
+<img width="1097" alt="Screenshot 2024-09-02 at 12 42 13 AM" src="https://github.com/user-attachments/assets/e7f200ae-96e5-40d9-9302-21519c8818a1">
 
 <h1> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
