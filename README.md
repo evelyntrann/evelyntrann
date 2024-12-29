@@ -12,11 +12,12 @@
 <p>🔭 I’m currently an undergrad student majoring in Computer Science and Mathematics</p>
 </li>
 <li>
-        <p>🌱 Previous Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> (Automation Project) </p>
+        <p>👯 Incoming Software Engineer Intern at <a href="[https://www.us.hsbc.com/](https://www.linkedin.com/company/meta/posts/?feedView=all)">Meta</a></p>
 </li>
 <li>
-        <p>👯 Previous Software Engineer Intern at <a href="https://www.us.hsbc.com/">HSBC</a></p>
+        <p>🌱 Previous Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> (Automation Project) </p>
 </li>
+
 <li>
         <p>🔐 Previous Software Engineer Intern at <a href="https://techsoft.one/">TechSoft</a></p>
 </li>
