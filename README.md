@@ -18,9 +18,7 @@
         <p>🌱 Previous Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> (Automation Project) </p>
 </li>
 
-<li>
-        <p>🔐 Previous Software Engineer Intern at <a href="https://techsoft.one/">TechSoft</a></p>
-</li>
+
 <li>
 <p>💬 Ask me about Sql, Java, C#, JavaScript, and Python</p>
 </li>
