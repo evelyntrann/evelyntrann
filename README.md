@@ -9,18 +9,18 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently an undergrad student majoring in Computer Science and Mathematics</p>
+<p>🔭 I’m currently an undergrad student majoring in Computer Science and Mathematics, with interest in Machine Learning, GenAI, and full-stack development.</p>
 </li>
 <li>
-        <p>👯 Incoming Software Engineer Intern at <a href="https://www.linkedin.com/company/meta/posts/?feedView=all">Meta</a></p>
+        <p>👯 Prev Software Engineer Intern at <a href="https://www.linkedin.com/company/meta/posts/?feedView=all">Meta (Messenger/ Instagram Direct ML Infra)</a></p>
 </li>
 <li>
-        <p>🌱 Previous Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> (Automation Project) </p>
+        <p>🌱 Prev Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> </p>
 </li>
 
 
 <li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript, and Python</p>
+<p>💬 Ask me about C++, Hack, Java, JavaScript, and Python</p>
 </li>
 <li>
 <p>⚡ Fun fact: My routine recently is: sleep, code, eat.</p>
