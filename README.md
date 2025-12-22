@@ -7,7 +7,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently an undergrad student majoring in Computer Science and Mathematics, with interest in Machine Learning, GenAI, and full-stack development.</p>
+<p>🔭 I’m currently an undergrad student majoring in Computer Science and Mathematics, with interest in AGI, ML Infra and distributed system.</p>
+</li>
+<li>
+        <p>🌱 Inc. Software Engineer Intern at <a href="https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024enUS_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20108148196&gbraid=0AAAAApk5BhkLwF-SqZDln1pAXFH4s0Olp&gclid=CjwKCAiA9aPKBhBhEiwAyz82J5VUJg91KP9Hua9qQMVD79271_k07rkBo-AjEx5bi-0cgcNHq692FBoCfxwQAvD_BwE">Google (Gemini Team).</a> </p>
 </li>
 <li>
         <p>👯 Prev Software Engineer Intern at <a href="https://www.linkedin.com/company/meta/posts/?feedView=all">Meta (Messenger/ Instagram Direct ML Infra)</a></p>
@@ -16,13 +19,6 @@
         <p>🌱 Prev Software Engineer Intern at <a href="https://alcon.com">Alcon Vision LLC.</a> </p>
 </li>
 
-
-<li>
-<p>💬 Ask me about C++, Hack, Java, JavaScript, and Python</p>
-</li>
-<li>
-<p>⚡ Fun fact: My routine recently is: sleep, code, eat.</p>
-</li>
 </ul>
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
