@@ -1,4 +1,3 @@
-<img width="1097" alt="Screenshot 2024-09-02 at 12 42 13 AM" src="https://github.com/user-attachments/assets/e7f200ae-96e5-40d9-9302-21519c8818a1">
 
 <h1> Thank you for taking the time to view my GitHub Profile :smile: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
