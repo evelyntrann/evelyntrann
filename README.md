@@ -2,7 +2,6 @@
 <h1> Thank you for taking the time to view my GitHub Profile :smile: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<div size="20px">  <img width="1062" alt="Screenshot 2024-09-02 at 1 29 16 PM" src="https://github.com/user-attachments/assets/22f8ddae-6c26-4091-bb7b-53340774127e">
 </div>
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
