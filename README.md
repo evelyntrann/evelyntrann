@@ -24,7 +24,7 @@ Hi, I'm Uyen Tran. I'm currently an undergraduate student majoring in Computer S
 
 <div align="center">
   
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/240px-Google_%22G%22_logo.svg.png" width="100px" alt="Google"/><br/>**Google**<br/>*Inc. Software Engineer Intern*<br/>Gemini Team | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/240px-Meta_Platforms_Inc._logo.svg.png" width="100px" alt="Meta"/><br/>**Meta**<br/>*Software Engineer Intern*<br/>Messenger/Instagram Direct ML Infra |  <br/>**Alcon Vision LLC**<br/>*Software Engineer Intern* |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/240px-Google_%22G%22_logo.svg.png" width="100px" alt="Google"/><br/>**Google**<br/>*Inc. Software Engineer Intern*<br/>Gemini Team | <img src="Meta_Platforms_Inc._logo.svg.png" width="100px" alt="Meta"/><br/>**Meta**<br/>*Software Engineer Intern*<br/>Messenger/Instagram Direct ML Infra |  <br/>**Alcon Vision LLC**<br/>*Software Engineer Intern* |
 |:---:|:---:|:---:|
 
 </div>
